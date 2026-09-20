@@ -1,0 +1,7 @@
+P113_CONTROLLED_WATCH_FIXTURE
+fixture_version=1
+state=BASELINE_STABLE
+marker=ALPHA
+severity=none
+material_change=false
+note=Controlled baseline. No material change is present.
