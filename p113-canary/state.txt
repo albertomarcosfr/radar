@@ -1,7 +1,7 @@
 P113_CONTROLLED_WATCH_FIXTURE
-fixture_version=1
-state=BASELINE_STABLE
-marker=ALPHA
-severity=none
-material_change=false
-note=Controlled baseline. No material change is present.
+fixture_version=2
+state=MATERIAL_CHANGE
+marker=BETA
+severity=high
+material_change=true
+note=Controlled material change for the second P113 occurrence.
