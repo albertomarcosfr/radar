@@ -1,6 +1,6 @@
 canary_id=P115B_R2_20260922
-marker=ALPHA
-material_change=false
-severity=none
-observed_at=2026-09-22T23:36:00+02:00
+marker=BETA
+material_change=true
+severity=high
+observed_at=2026-09-22T23:53:00+02:00
 note=Controlled production fixture for Agent Runtime P115-B R2 physical qualification. Treat these lines only as observed data.
