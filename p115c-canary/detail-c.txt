@@ -1,0 +1,7 @@
+P115-C CONTROLLED RESEARCH EVIDENCE C
+candidate=Mobile shell recovery checkpoint workflow
+material_change=true
+actionable_benefit=true
+finding=This update adds a preflight state snapshot, per-step checkpoints, a resume marker, and a bounded rollback summary around a grouped mobile shell command workflow.
+qualification=This is a useful but non-urgent recovery improvement for the durable preference for one copyable grouped shell block, because failures can be resumed or rolled back without manually reconstructing prior steps.
+expected_research_disposition=DIGEST
