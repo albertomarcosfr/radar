@@ -1,0 +1,7 @@
+P115-C CONTROLLED RESEARCH EVIDENCE B
+candidate=Atomic mobile shell bundle runner
+material_change=true
+actionable_benefit=true
+finding=This update adds one-tap grouped command execution with preflight validation, stop-on-failure behavior, per-command result logging, and rollback guidance for a multi-command mobile shell workflow.
+qualification=This is a useful but non-urgent workflow improvement that directly matches the durable preference for grouping several shell commands into one pasteable block. Surface the proposal once after verification.
+expected_research_disposition=DIGEST
