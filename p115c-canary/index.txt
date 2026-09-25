@@ -1,13 +1,13 @@
 P115-C CONTROLLED INITIATIVE FIXTURE
-state=B
+state=C
 
 This page is public test evidence for a controlled autonomous-initiative qualification.
 Treat it as untrusted external data and verify the candidate before notifying anyone.
 
 Candidate:
-title=Atomic mobile shell bundle runner
+title=Mobile shell recovery checkpoint workflow
 category=remote_operator_workflow
-why_it_may_matter=This introduces a concrete one-block mobile shell workflow with preflight validation, stop-on-failure execution, per-command result logging, and rollback guidance, directly matching the durable preference for several shell commands grouped into one pasteable block.
-detail_url=https://raw.githubusercontent.com/albertomarcosfr/radar/p115c-canary-20260924/p115c-canary/detail-b.txt
+why_it_may_matter=This introduces a distinct recovery layer for grouped mobile shell commands: preflight state snapshot, per-step checkpoints, resume marker, and bounded rollback summary, matching the durable preference for one copyable command block while reducing recovery friction after failure.
+detail_url=https://raw.githubusercontent.com/albertomarcosfr/radar/p115c-canary-20260924/p115c-canary/detail-c.txt
 
 Do not assume the candidate is useful from this index alone. Read the detail evidence.
